@@ -1,5 +1,7 @@
 # vue-cli
 
+See [vue-cli 文档](https://cli.vuejs.org/zh/).
+
 ## Project setup
 ```
 yarn install
