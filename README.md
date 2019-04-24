@@ -1,6 +1,6 @@
 # vue-cli
 
-See [vue-cli 文档](https://cli.vuejs.org/zh/).
+这里是 vue-cli 的文档 👉See [vue-cli 文档](https://cli.vuejs.org/zh/).
 
 
 ### 开发环境
@@ -55,9 +55,9 @@ yarn run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-*** 
-2019-4-24
+```
+👉2019-4-24
 * 使用新版的vue-cli生成了这个项目.新版的vue-cli要求node版本在8以上.所以顺便搞了一个node版本的管理工具nvm.
-***
+```
 
 
