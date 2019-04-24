@@ -5,9 +5,9 @@
 
 ### ✔️ 开发环境 ✌️
 
-1️⃣. node.js >= 8 (推荐8.11.0+) (可以使用 [nvm](https://github.com/creationix/nvm) 管理node版本)
+1️⃣. node.js >= 8 (推荐8.11.0+)         (小提示：可以使用 [nvm](https://github.com/creationix/nvm) 管理node版本)
 
-2️⃣. yarn 1.15.2 [yarn](https://yarnpkg.com/zh-Hant/)
+2️⃣. yarn 1.15.2  👉  [yarn](https://yarnpkg.com/zh-Hant/)
     
     
     
