@@ -24,14 +24,19 @@
     * 切换nvm   =>   nvm use node版本
 
     ```
+### 下载项目代码
 
+项目地址：https://github.com/Jamie-qian/vue-cli.git
+```
+git clone 
+```
     
-## Project setup
+### 安装依赖模块
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### 启动服务
 ```
 yarn run serve 或者 yarn serve
 ```
@@ -51,13 +56,10 @@ yarn run test
 yarn run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
 
 ```
 👉2019-4-24
-* 使用新版的vue-cli生成了这个项目.新版的vue-cli要求node版本在8以上.所以顺便搞了一个node版本的管理工具nvm.
+* 使用新版的vue-cli生成了这个项目.新版的vue-cli要求node版本在8以上.所以顺便搞了一个node版本的管理工具nvm😏.
 ```
 
 
