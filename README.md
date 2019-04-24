@@ -9,7 +9,7 @@ See [vue-cli 文档](https://cli.vuejs.org/zh/).
     
     关于nvm
     推荐一篇博客  [使用nvm管理node版本](http://bubkoo.com/2017/01/08/quick-tip-multiple-versions-node-nvm/).
-    
+
     ```
     
 
@@ -25,6 +25,7 @@ See [vue-cli 文档](https://cli.vuejs.org/zh/).
 
     ```
 
+    
 ## Project setup
 ```
 yarn install
@@ -52,3 +53,8 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+2019-4-24
+
+使用新版的vue-cli生成了这个项目.新版的vue-cli要求node版本在8以上.所以顺便搞了一个node版本的管理工具nvm.
