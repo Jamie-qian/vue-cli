@@ -2,6 +2,11 @@
 
 See [vue-cli 文档](https://cli.vuejs.org/zh/).
 
+
+### 开发环境
+
+1. node.js >= 8 (推荐8.11.0+) (可以使用 [nvm](https://github.com/creationix/nvm) 管理node版本)
+
 ## Project setup
 ```
 yarn install
