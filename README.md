@@ -39,7 +39,7 @@
 git clone 
 ```
     
-### ✔️ 安装依赖模块
+### ✔️ 安装依赖模块 ✌️
 ```
 yarn install
 ```
@@ -49,9 +49,9 @@ yarn install
 yarn run serve 或者 yarn serve
 ```
 
-### Compiles and minifies for production
+### ✔️ 打包发布 ✌️
 ```
-yarn run build
+yarn run build 或者 yarn build （生成dist文件夹）
 ```
 
 ### Run your tests
