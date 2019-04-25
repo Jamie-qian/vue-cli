@@ -19,6 +19,7 @@
 1️⃣. node.js >= 8.9 (推荐8.11.0+)         (小提示：可以使用 [nvm](https://github.com/creationix/nvm) 管理node版本)
 
 2️⃣. npm  5.6.0   👉  [npm](https://www.npmjs.com.cn/)
+
 3️⃣. yarn 1.15.2  👉  [yarn](https://yarnpkg.com/zh-Hant/)
 
 ### ✔️ 开发框架 ✌️
