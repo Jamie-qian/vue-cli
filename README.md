@@ -1,9 +1,13 @@
 # vue-cli 😀
 
 这里是 vue-cli 的文档 👉 See [Vue-CLI 文档](https://cli.vuejs.org/zh/).
+
 这里是 vue 论坛  👉 See [Forum](https://forum.vuejs.org/).
+
 这里是 vue 社区聊天 👉 See [Community Chat](https://discordapp.com/invite/HBherRA).
+
 这里是 vue twitter 👉 See [Twitter](https://twitter.com/vuejs).
+
 这里是 vue 新闻 👉 See [News](https://news.vuejs.org/).
 
 
