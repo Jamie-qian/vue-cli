@@ -23,7 +23,7 @@
 
 ### ✔️ 开发框架 ✌️
 
-1️⃣. [vue 3.6.3](http://cn.vuejs.org/)
+1️⃣. [vue 2.6.10](http://cn.vuejs.org/)
 
 2️⃣. [element-ui 2.7.2](http://element.eleme.io/#/zh-CN/)
 
@@ -95,10 +95,10 @@ yarn run lint
 ### 我的记录😎😎😎
 ```
 👉2️⃣0️⃣1️⃣9️⃣-4️⃣-2️⃣4️⃣
-* 使用新版的vue-cli生成了这个项目.新版的vue-cli要求node版本在8以上.所以顺便搞了一个node版本的管理工具nvm😏.
+* 使用新版的vue-cli生成了这个项目.新版的vue-cli要求node版本在8以上.所以顺便搞了一个管理node版本的工具nvm😏.
 
 👉2️⃣0️⃣1️⃣9️⃣-4️⃣-2️⃣5️⃣
-* 添加了element ui.vue-cli有相应的element插件.使用vue add element这个命令😏.
+* 添加了element ui.vue-cli有相应的element插件.使用vue add element这个命令😏.就会生成plugins文件夹,这个文件夹里面生成了一个element.js文件,引入了element ui.👏这个新版的vue-cli感觉真的好方便.撒花🎉🎉🎉.
 ```
 
 
