@@ -19,6 +19,7 @@
 1️⃣. node.js >= 8.9 (推荐8.11.0+)         (小提示：可以使用 [nvm](https://github.com/creationix/nvm) 管理node版本)
 
 2️⃣. npm  5.6.0   👉  [npm](https://www.npmjs.com.cn/)
+
 3️⃣. yarn 1.15.2  👉  [yarn](https://yarnpkg.com/zh-Hant/)
 
 ### ✔️ 开发框架 ✌️
@@ -62,11 +63,11 @@ yarn run lint
 
 ### ✔️ 关于vue-cli@3 ✌️
 ```
-    🔅 安装             npm install -g @vue/cli 或者 yarn global add @vue/cli
-    🔅 创建一个项目      vue create my-project   或者 vue ui
+    🔅 安装              npm install -g @vue/cli 或者 yarn global add @vue/cli
+    🔅 创建一个项目       vue create my-project   或者 vue ui
     🔅 进入项目启动服务   yarn serve
-    🔅 添加element ui   vue add element
-    🔅 添加vue-router   vue add router
+    🔅 添加element ui    vue add element
+    🔅 添加vue-router    vue add router
 ```
 
 ### ✔️ 关于element ui ✌️
