@@ -70,7 +70,7 @@ yarn run lint
 * 使用新版的vue-cli生成了这个项目.新版的vue-cli要求node版本在8以上.所以顺便搞了一个node版本的管理工具nvm😏.
 
 👉2️⃣0️⃣1️⃣9️⃣-4️⃣-2️⃣5️⃣
-* vue-cli有相应的element插件.使用vue add element这个命令😏. 👉https://github.com/ElementUI/vue-cli-plugin-element
+* 添加了element ui.vue-cli有相应的element插件.使用vue add element这个命令😏.
 ```
 
 
