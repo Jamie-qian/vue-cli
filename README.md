@@ -1,6 +1,6 @@
 # vue-cli 😀
 
-<pre>
+
 
 这里是 vue-cli 的文档 👉 See [Vue-CLI 文档](https://cli.vuejs.org/zh/).
 
@@ -12,7 +12,7 @@
 
 这里是 vue 新闻 👉 See [News](https://news.vuejs.org/).
 
-</pre>
+
 
 ### ✔️ 开发环境 ✌️
 
