@@ -58,7 +58,8 @@ yarn run lint
 
 ### ✔️ 关于element ui ✌️
 
-    element ui 为vue-cli@3 准备了[element插件](https://github.com/ElementUI/vue-cli-plugin-element).
+   element ui 为vue-cli@3 准备了 [element插件](https://github.com/ElementUI/vue-cli-plugin-element).
+    
 ```
     vue create my-project
     cd  my-project
@@ -67,9 +68,8 @@ yarn run lint
 
 ### ✔️ 关于nvm ✌️
 
+   推荐一篇博客🤗        [使用nvm管理node版本](http://bubkoo.com/2017/01/08/quick-tip-multiple-versions-node-nvm/).
 ```
-    推荐一篇博客🤗  [使用nvm管理node版本](http://bubkoo.com/2017/01/08/quick-tip-multiple-versions-node-nvm/).
-    
     * 说明：
     安装完成之后需执行
 
