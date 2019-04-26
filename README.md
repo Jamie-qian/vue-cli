@@ -28,6 +28,9 @@
 
 2️⃣. [element-ui 2.7.2](http://element.eleme.io/#/zh-CN/)
 
+3️⃣. [vue-router 3.0.6](https://router.vuejs.org/zh/)
+
+4️⃣. [vuex 3.1.0](https://vuex.vuejs.org/zh/)
 
 ### ✔️ 下载项目代码 ✌️
 
@@ -97,14 +100,17 @@ yarn run lint
 ```
 ### 我的记录😎😎😎
 ```
-👉2️⃣0️⃣1️⃣9️⃣-4️⃣-2️⃣4️⃣
+👉 2️⃣0️⃣1️⃣9️⃣-4️⃣-2️⃣4️⃣
 ▪️ 使用新版的vue-cli生成了这个项目.新版的vue-cli要求node版本>=8.9.所以顺便搞了一个管理node版本的工具nvm😏.
 
-👉2️⃣0️⃣1️⃣9️⃣-4️⃣-2️⃣5️⃣
-▪️ 添加了element ui.vue-cli有相应的element插件.使用vue add element这个命令😏.就会生成plugins文件夹,这个文件夹里面
+👉 2️⃣0️⃣1️⃣9️⃣-4️⃣-2️⃣5️⃣
+▪️ 添加了element ui.vue-cli有相应的element插件.使用***vue add element***这个命令😏.就会生成plugins文件夹,这个文件夹里面
   生成了一个element.js文件,引入了element ui.👏这个新版的vue-cli感觉真的好方便.撒花🎉🎉🎉.
 
-▪️ 添加了vue-router.执行vue add router这个命令.生成router.js文件以及views文件夹.
+▪️ 添加了vue-router.执行***vue add router***这个命令.生成router.js文件以及views文件夹.
+
+👉 2️⃣0️⃣1️⃣9️⃣-4️⃣-2️⃣6️⃣
+▪️ 添加了vuex.执行***vue add vuex***命令.生成store.js文件.
 ```
 
 
