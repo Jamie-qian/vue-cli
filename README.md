@@ -110,7 +110,7 @@ yarn run lint
 ▪️ 添加了vue-router.执行***vue add router***这个命令.生成router.js文件以及views文件夹.
 
 👉 2️⃣0️⃣1️⃣9️⃣-4️⃣-2️⃣6️⃣
-▪️ 添加了vuex.执行***vue add vuex***命令.生成store.js文件.
+▪️ 添加了vuex.执行<strong>vue add vuex</strong>命令.生成store.js文件.
 ```
 
 
