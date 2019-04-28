@@ -54,6 +54,26 @@ yarn run serve 或者 yarn serve
 yarn run build 或者 yarn build （生成dist文件夹）
 ```
 
+### ✔️ 添加element ui ✌️
+```
+vue add element
+```
+
+### ✔️ 添加vue-router ✌️
+```
+vue add router
+```
+
+### ✔️ 添加vuex ✌️
+```
+vue add vuex
+```
+
+### ✔️ 添加echarts ✌️
+```
+yarn add echarts
+```
+
 ### Run your tests
 ```
 yarn run test
@@ -68,9 +88,10 @@ yarn run lint
 ```
     🔅 安装              npm install -g @vue/cli 或者 yarn global add @vue/cli
     🔅 创建一个项目       vue create my-project   或者 vue ui
-    🔅 进入项目启动服务   yarn serve
+    🔅 进入项目启动服务    yarn serve
     🔅 添加element ui    vue add element
     🔅 添加vue-router    vue add router
+    🔅 添加vuex          vue add vuex
 ```
 
 ### ✔️ 关于element ui ✌️
@@ -113,4 +134,6 @@ yarn run lint
 ▪️ 添加了vuex.执行vue add vuex命令.生成store.js文件.
 ```
 
-
+👉 2️⃣0️⃣1️⃣9️⃣-4️⃣-2️⃣8️⃣
+▪️ 添加了echarts.
+```
