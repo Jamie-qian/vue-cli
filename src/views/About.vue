@@ -16,8 +16,7 @@ export default {
     },
     methods:{
         draw(){
-            let echarts = this.$echarts.init(document.getElementById('echarts')),
-                    _this = this;
+            let echarts = this.$echarts.init(document.getElementById('echarts'));
 
             echarts.setOption({
                 title: {
