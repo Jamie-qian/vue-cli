@@ -87,11 +87,17 @@ yarn run lint
 ### ✔️ 关于vue-cli@3 ✌️
 
    🔅 安装              npm install -g @vue/cli 或者 yarn global add @vue/cli
+   
    🔅 创建一个项目       vue create my-project   或者 vue ui
+   
    🔅 进入项目启动服务    yarn serve
+   
    🔅 添加element ui    vue add element
+   
    🔅 添加vue-router    vue add router
+   
    🔅 添加vuex          vue add vuex
+   
 
 
 ### ✔️ 关于element ui ✌️
@@ -100,7 +106,9 @@ yarn run lint
     
 
    vue create my-project
+   
    cd  my-project
+   
    vue add element  👉 生成plugins文件夹
 
 
@@ -112,10 +120,14 @@ yarn run lint
    安装完成之后需执行
 
    export NVM_DIR="$HOME/.nvm"
+   
    [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+   
    [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"
+   
 
    ▪️ 查看nvm   =>   nvm ls
+   
    ▪️ 切换nvm   =>   nvm use node版本
     
 
