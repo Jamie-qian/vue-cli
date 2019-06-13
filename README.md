@@ -85,29 +85,29 @@ yarn run lint
 ```
 
 ### ✔️ 关于vue-cli@3 ✌️
-```
+
     🔅 安装              npm install -g @vue/cli 或者 yarn global add @vue/cli
     🔅 创建一个项目       vue create my-project   或者 vue ui
     🔅 进入项目启动服务    yarn serve
     🔅 添加element ui    vue add element
     🔅 添加vue-router    vue add router
     🔅 添加vuex          vue add vuex
-```
+
 
 ### ✔️ 关于element ui ✌️
 
    element ui 为vue-cli@3 准备了 [element插件](https://github.com/ElementUI/vue-cli-plugin-element).
     
-```
+
     vue create my-project
     cd  my-project
     vue add element  👉 生成plugins文件夹
-```
+
 
 ### ✔️ 关于nvm ✌️
 
    推荐一篇博客🤗        [使用nvm管理node版本](http://bubkoo.com/2017/01/08/quick-tip-multiple-versions-node-nvm/).
-```
+
     ▪️ 说明：
     安装完成之后需执行
 
@@ -118,9 +118,9 @@ yarn run lint
     ▪️ 查看nvm   =>   nvm ls
     ▪️ 切换nvm   =>   nvm use node版本
     
-```
+
 ### 我的记录😎😎😎
-```
+
 👉 2️⃣0️⃣1️⃣9️⃣-4️⃣-2️⃣4️⃣
 ▪️ 使用新版的vue-cli生成了这个项目.新版的vue-cli要求node版本>=8.9.所以顺便搞了一个管理node
 版本的工具nvm😏.
@@ -141,4 +141,4 @@ vue-cli感觉真的好方便.撒花🎉🎉🎉.
 👉 2️⃣0️⃣1️⃣9️⃣-6️⃣-1️⃣3️⃣
 ▪️ 添加了这个github page.哈哈哈哈.😎😎😎
 [地址](https://jamie-qian.github.io/vue-cli/)
-```
+
