@@ -86,12 +86,12 @@ yarn run lint
 
 ### ✔️ 关于vue-cli@3 ✌️
 
-    🔅 安装              npm install -g @vue/cli 或者 yarn global add @vue/cli
-    🔅 创建一个项目       vue create my-project   或者 vue ui
-    🔅 进入项目启动服务    yarn serve
-    🔅 添加element ui    vue add element
-    🔅 添加vue-router    vue add router
-    🔅 添加vuex          vue add vuex
+   🔅 安装              npm install -g @vue/cli 或者 yarn global add @vue/cli
+   🔅 创建一个项目       vue create my-project   或者 vue ui
+   🔅 进入项目启动服务    yarn serve
+   🔅 添加element ui    vue add element
+   🔅 添加vue-router    vue add router
+   🔅 添加vuex          vue add vuex
 
 
 ### ✔️ 关于element ui ✌️
@@ -99,24 +99,24 @@ yarn run lint
    element ui 为vue-cli@3 准备了 [element插件](https://github.com/ElementUI/vue-cli-plugin-element).
     
 
-    vue create my-project
-    cd  my-project
-    vue add element  👉 生成plugins文件夹
+   vue create my-project
+   cd  my-project
+   vue add element  👉 生成plugins文件夹
 
 
 ### ✔️ 关于nvm ✌️
 
    推荐一篇博客🤗        [使用nvm管理node版本](http://bubkoo.com/2017/01/08/quick-tip-multiple-versions-node-nvm/).
 
-    ▪️ 说明：
-    安装完成之后需执行
+   ▪️ 说明：
+   安装完成之后需执行
 
-    export NVM_DIR="$HOME/.nvm"
-    [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
-    [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"
+   export NVM_DIR="$HOME/.nvm"
+   [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+   [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"
 
-    ▪️ 查看nvm   =>   nvm ls
-    ▪️ 切换nvm   =>   nvm use node版本
+   ▪️ 查看nvm   =>   nvm ls
+   ▪️ 切换nvm   =>   nvm use node版本
     
 
 ### 我的记录😎😎😎
